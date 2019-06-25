@@ -1,5 +1,9 @@
 #!/usr/bin/julia
 
+# This file has been downloaded from the website:
+# https://fluxml.ai/experiments/
+# There have been minor modifications to the code to allow it to compile.
+
 # Classifies MNIST digits with a convolutional network.
 # Writes out saved model to the file "mnist_conv.bson".
 # Demonstrates basic model construction, training, saving,
